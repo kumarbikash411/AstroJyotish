@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "AstroJyotish",
+    "slug": "astrojyotish",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.astrojyotish.app",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.astrojyotish.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF8EC"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bf99c4e8-9fde-482a-b6b1-d34af3110884"
+      }
+    },
+    "owner": "kumarbikash415"
+  }
+}
